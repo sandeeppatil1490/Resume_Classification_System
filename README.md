@@ -1,2 +1,2 @@
-# Book_Recommendation_System
-Building a Book Recommendation System
+# Resume Calsssification System
+Building a Resume Classification system
